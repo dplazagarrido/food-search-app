@@ -34,7 +34,7 @@ const ResultShowScreen = ({navigation}) => {
 };
 
 const styles = StyleSheet.create({
-  image: {
+  image : {
     height: 200,
     width: 300
   }
